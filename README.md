@@ -1,4 +1,4 @@
-### Cypress Project
+# Cypress Project
 
 ## Description
 This project automates tests for [demoqa.com](https://demoqa.com/), focusing on two main scenarios:
