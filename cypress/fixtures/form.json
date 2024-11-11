@@ -1,0 +1,14 @@
+{
+    "firstName": "YourName",
+    "lastName": "YourLastName",
+    "email": "test@test.com",
+    "gender": "Male",
+    "mobile": "0123456789",
+    "birthDate": "15 January 1992",
+    "subjects": "Computer Science",
+    "hobbies": "Reading",
+    "picture": "photo.jpg",
+    "currentAddress": "Iran",
+    "state": "NCR",
+    "city": "Delhi"
+  }
